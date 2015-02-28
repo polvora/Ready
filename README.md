@@ -14,7 +14,7 @@ To load the plugin use this rcon command:
 `rcon sm plugins load forcepicker`
  
 ###Download
-Compiled: [ready.smx](https://bitbucket.org/Polvora/ready/downloads/ready.smx)
+Compiled: [ready.smx](https://bitbucket.org/Polvora/ready/downloads/ready.smx)  
 To compile use the [online compiler](http://www.sourcemod.net/compiler.php)
 
 ###Changelog
