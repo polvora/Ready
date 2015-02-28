@@ -15,6 +15,7 @@ To load the plugin use this rcon command:
  
 ###Download
 Compiled: [ready.smx](https://bitbucket.org/Polvora/ready/downloads/ready.smx)
+To compile use the [online compiler](http://www.sourcemod.net/compiler.php)
 
 ###Changelog
 > [28/02/2015] v1.0
